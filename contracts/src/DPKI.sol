@@ -1,4 +1,6 @@
 // SPDX-License-Identifier: UNLICENSED
+
+// Contract for the Decentralized Private Key Network
 pragma solidity ^0.8.22;
 
 error ErrCertificateAuthorityNotFound();
